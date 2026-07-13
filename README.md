@@ -189,6 +189,5 @@ npm install
 # Configure environment
 cp .env.example .env
 # Edit .env with your backend URL
-
 # Start frontend server
 npm start
