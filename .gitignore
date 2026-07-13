@@ -26595,18 +26595,3 @@ temp/
 checkpoints/
 models/
 models_saved/
-*.model
-*.weights
-
-# Hugging Face models
-*.bin
-*.safetensors
-
-# Training checkpoints
-training_checkpoints/
-logs/
-
-# ============================================
-# Data Files
-# ============================================
-
